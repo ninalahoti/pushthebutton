@@ -68,11 +68,13 @@ For the visuals, I took inspiration from old scrapbook images. I decided to edit
 <img src="https://user-images.githubusercontent.com/71244080/153326340-e646abe3-255e-4cb8-a389-01be4eb873b4.jpg" alt="sourceimage" height="200"/> [^6]
 <img src="https://user-images.githubusercontent.com/71244080/153326337-46769e99-c765-40fd-ba4f-6a22cc8719a4.jpg" alt="sourceimage" height="200"/> [^7]
 <img src="https://user-images.githubusercontent.com/71244080/153326331-964bdb92-62ff-4b38-ae4c-2884f3a1df83.jpg" alt="sourceimage" height="200"/> [^8]
-<img src="https://user-images.githubusercontent.com/71244080/153326334-11d1da96-dd84-403f-98ee-3df6846e6b57.jpg" alt="sourceimage" height="200"/> [^9]
-<img src="https://user-images.githubusercontent.com/71244080/153326339-e9479726-1ba9-4f47-9dd6-e579d6a97d47.jpg" alt="sourceimage" height="200"/> [^10]
-<img src="https://user-images.githubusercontent.com/71244080/153326336-dd3babef-5aa3-499c-848e-15ace62064e7.jpg" alt="sourceimage" height="200"/> [^11]
-<img src="https://user-images.githubusercontent.com/71244080/153326326-767e4187-e958-4fbe-b65c-7916b15dd580.jpg" alt="sourceimage" height="200"/> [^12]
-<img src="https://user-images.githubusercontent.com/71244080/153326333-973a4795-fbc4-4f36-ae8c-a37c5e7d7bdf.jpg" alt="sourceimage" height="200"/> [^13]
+
+<img src="https://user-images.githubusercontent.com/71244080/153326334-11d1da96-dd84-403f-98ee-3df6846e6b57.jpg" alt="sourceimage" height="249"/> [^9]
+<img src="https://user-images.githubusercontent.com/71244080/153326339-e9479726-1ba9-4f47-9dd6-e579d6a97d47.jpg" alt="sourceimage" height="249"/> [^10]
+<img src="https://user-images.githubusercontent.com/71244080/153326336-dd3babef-5aa3-499c-848e-15ace62064e7.jpg" alt="sourceimage" height="249"/> [^11]
+
+<img src="https://user-images.githubusercontent.com/71244080/153326326-767e4187-e958-4fbe-b65c-7916b15dd580.jpg" alt="sourceimage" height="227"/> [^12]
+<img src="https://user-images.githubusercontent.com/71244080/153326333-973a4795-fbc4-4f36-ae8c-a37c5e7d7bdf.jpg" alt="sourceimage" height="227"/> [^13]
 
 
 ## FINAL ASSETS
@@ -87,16 +89,15 @@ For the visuals, I took inspiration from old scrapbook images. I decided to edit
 
 
 ### LEVEL 3
-<img src="https://user-images.githubusercontent.com/71244080/153326844-df7d4c4b-eef8-425a-90e0-fe964d0e574c.png" alt="sourceimage" height="200"/> <img src="https://user-images.githubusercontent.com/71244080/153326831-8adfbb60-06d1-4601-8b6e-cb41ef0f03d6.png" alt="sourceimage" height="200"/> <img src="https://user-images.githubusercontent.com/71244080/153326813-7d1cffd6-1479-4c3b-be1a-c385092b97ef.png" alt="sourceimage" height="200"/> 
-
 <img src="https://user-images.githubusercontent.com/71244080/153326836-b91bf811-fd12-4b68-87ba-f1c5175dee35.png" alt="sourceimage"/> <img src="https://user-images.githubusercontent.com/71244080/153326840-a0e767fc-d022-4267-8727-498053ec894d.png" alt="sourceimage"/>
+
+<img src="https://user-images.githubusercontent.com/71244080/153326844-df7d4c4b-eef8-425a-90e0-fe964d0e574c.png" alt="sourceimage" height="200"/> <img src="https://user-images.githubusercontent.com/71244080/153326831-8adfbb60-06d1-4601-8b6e-cb41ef0f03d6.png" alt="sourceimage" height="200"/> <img src="https://user-images.githubusercontent.com/71244080/153326813-7d1cffd6-1479-4c3b-be1a-c385092b97ef.png" alt="sourceimage" height="200"/> 
 
 
 ### LEVEL 4
-<img src="https://user-images.githubusercontent.com/71244080/153326807-f75dab43-0c63-4ba5-be9f-e212bdb1b922.png" alt="sourceimage" height="200"/> 
-
 <img src="https://user-images.githubusercontent.com/71244080/153326796-fc1bcf26-df1f-4a43-90da-378a6b1ddcd0.png" alt="sourceimage"/> <img src="https://user-images.githubusercontent.com/71244080/153326799-65a154c7-239e-457f-882f-c6deca751650.png" alt="sourceimage"/> <img src="https://user-images.githubusercontent.com/71244080/153326801-3389f5e2-604a-4e88-84aa-584b64a6ddf2.png" alt="sourceimage"/> <img src="https://user-images.githubusercontent.com/71244080/153326802-1a377469-ccdb-49c6-8a19-3d8db0d22b85.png" alt="sourceimage"/> <img src="https://user-images.githubusercontent.com/71244080/153326805-1c7a7466-5c39-441b-af6b-027610006721.png" alt="sourceimage"/>
 
+<img src="https://user-images.githubusercontent.com/71244080/153326807-f75dab43-0c63-4ba5-be9f-e212bdb1b922.png" alt="sourceimage" height="200"/> 
 
 ### LEVEL 5
 <img src="https://user-images.githubusercontent.com/71244080/153326833-c1041f06-9054-44ad-ba21-782a4cb91d23.png" alt="sourceimage" height="200"/> <img src="https://user-images.githubusercontent.com/71244080/153326851-7d620715-54f6-4e6d-9b8d-bc58aae27624.png" alt="sourceimage" height="200"/> <img src="https://user-images.githubusercontent.com/71244080/153326795-3e8e2795-b49a-424a-af8d-1a1c613b90f9.png" alt="sourceimage" height="200"/> <img src="https://user-images.githubusercontent.com/71244080/153326835-842baa77-3858-4afb-a703-6446299ab263.png" alt="sourceimage" height="200"/> 
