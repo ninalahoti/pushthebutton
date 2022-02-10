@@ -57,24 +57,17 @@ Because the game is tied to a personal story, I wanted the game’s visual to ha
 I made my pixel art assets in Illustrator. I then turned these into mini-animations of three to four frames. 
 
 ## CHARACTER DESIGN
-
-![Screen Shot 2022-01-27 at 7.44.55 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5701d892-e608-4d0c-a599-11e6b641b07e/Screen_Shot_2022-01-27_at_7.44.55_PM.png)
-
-![Screen Shot 2022-01-27 at 7.45.08 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c55e1764-fdbb-4995-a314-59ca59802eab/Screen_Shot_2022-01-27_at_7.45.08_PM.png)
-
-![Screen Shot 2022-01-27 at 7.45.20 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c6aaa299-0916-4311-bd90-2e66d9262755/Screen_Shot_2022-01-27_at_7.45.20_PM.png)
-
-![Screen Shot 2022-01-27 at 8.13.37 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f8b5f989-d2f9-4745-b06a-352638b77c6f/Screen_Shot_2022-01-27_at_8.13.37_PM.png)
+![image](https://user-images.githubusercontent.com/71244080/153318253-8c7065ad-50fc-4d41-b82c-312296351381.png)
+![image](https://user-images.githubusercontent.com/71244080/153318272-7935077b-22d6-4b78-a282-816750089022.png)
+![image](https://user-images.githubusercontent.com/71244080/153318278-12f991dd-1f7c-436a-b2b5-9d72da98b3b3.png)
+![image](https://user-images.githubusercontent.com/71244080/153318290-e272d1ac-0aaa-4c8f-a379-eb4f7fd1ee79.png)
 
 ## CHAIR LIFT DESIGN
+![image](https://user-images.githubusercontent.com/71244080/153318335-b464a2f3-0a4f-443a-a4b0-844f277380e2.png)
+![image](https://user-images.githubusercontent.com/71244080/153318345-19e621de-4706-49a4-90c7-0013bc83d1fc.png)
+![image](https://user-images.githubusercontent.com/71244080/153318361-1b168f97-29e5-45bb-9dfc-0e10c2a4c3ed.png)
+![image](https://user-images.githubusercontent.com/71244080/153318369-dfd55c44-fbdc-48a8-b71c-346c844e93f2.png)
 
-![Screen Shot 2022-01-27 at 8.34.16 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9504137e-2def-40e1-a9fd-ca64bd4720a1/Screen_Shot_2022-01-27_at_8.34.16_PM.png)
-
-![Screen Shot 2022-01-27 at 8.34.25 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c12fef03-e92e-47a9-862e-cee976db460d/Screen_Shot_2022-01-27_at_8.34.25_PM.png)
-
-![Screen Shot 2022-01-27 at 8.34.32 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3f4ad58e-f1d5-4917-ac18-3b74eb3745e0/Screen_Shot_2022-01-27_at_8.34.32_PM.png)
-
-![Screen Shot 2022-01-27 at 8.38.00 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7acad46b-d0aa-48a9-a541-f812ad55549f/Screen_Shot_2022-01-27_at_8.38.00_PM.png)
 
 ## ANIMATION
 
@@ -82,65 +75,50 @@ I made my pixel art assets in Illustrator. I then turned these into mini-animati
 
 freaking out
 
-![freaking out.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f2d91d33-8488-4a18-b3f0-554d376ec97f/freaking_out.gif)
+![image](https://user-images.githubusercontent.com/71244080/153318407-e6091cb8-2c68-45c3-bb2b-b4a3808f4b37.png)
+
 
 anxious
 
-![anxious.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/77640499-f0e5-4d4b-a857-916dd8ef58f2/anxious.gif)
+![image](https://user-images.githubusercontent.com/71244080/153318415-17ab921e-efb0-4bae-b3c4-ee7fb709a028.png)
 
 neutral
 
-![FINAL SWING!.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e23a4c87-df3e-4d2e-a96f-69cfd37b6537/FINAL_SWING!.gif)
+![image](https://user-images.githubusercontent.com/71244080/153318417-088b8279-4a7c-4a50-a4d3-b352b7a99c51.png)
 
 sleepy
 
-![sleepy2.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/75467f95-b5b2-4780-9a4d-72b809355dba/sleepy2.gif)
+![image](https://user-images.githubusercontent.com/71244080/153318422-b60f91b7-fbf9-439e-b03d-0c55ebfa8180.png)
 
 asleep
 
-![asleep.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/707ac0f5-10ce-490f-93dd-e54a8fdfe313/asleep.gif)
+![image](https://user-images.githubusercontent.com/71244080/153318426-72a0821a-073f-43f4-b63c-ea4872a6b6ad.png)
 
 ### FINALIZED FRAMES
+![image](https://user-images.githubusercontent.com/71244080/153318499-a8a9c98b-efde-4fae-a5d9-1bbfa00a693a.png)
+![image](https://user-images.githubusercontent.com/71244080/153318506-6ea26d14-68ef-4f5d-b8bd-5caaffa348a6.png)
+![image](https://user-images.githubusercontent.com/71244080/153318512-5d9e72ad-04ea-45d3-bd6e-5a775a1ee9f4.png)
+![image](https://user-images.githubusercontent.com/71244080/153318513-c63a86a7-3701-42e9-bb29-066531e76752.png)
+![image](https://user-images.githubusercontent.com/71244080/153318515-545cde7a-9492-465c-815b-7ef9084a31cd.png)
+![image](https://user-images.githubusercontent.com/71244080/153318519-560feaba-a4c3-426a-bb1b-056eaab83305.png)
+![image](https://user-images.githubusercontent.com/71244080/153318528-05f9b6d0-6be3-410f-b4b8-b5282365001c.png)
+![image](https://user-images.githubusercontent.com/71244080/153318533-184831a9-5782-4965-94c8-80b4d9500fb4.png)
+![image](https://user-images.githubusercontent.com/71244080/153318536-6ec4fc8b-f66c-407f-b12b-eebbc4757015.png)
+![image](https://user-images.githubusercontent.com/71244080/153318540-06d062c6-24de-4648-80b4-8bc66bbd2c59.png)
+![image](https://user-images.githubusercontent.com/71244080/153318549-53dfd54a-1460-4e7f-9d6b-864c8ebcd275.png)
+![image](https://user-images.githubusercontent.com/71244080/153318552-da6c7f97-c908-46b9-b2a6-2cbf5fe41536.png)
+![image](https://user-images.githubusercontent.com/71244080/153318558-a9dc1be8-d454-428d-a84c-736c108e393f.png)
+![image](https://user-images.githubusercontent.com/71244080/153318563-738c3c4a-1d3b-42b8-84c5-799c67af71ba.png)
+![image](https://user-images.githubusercontent.com/71244080/153318575-be76e050-18b0-47be-9564-11514691f1f2.png)
+![image](https://user-images.githubusercontent.com/71244080/153318577-d8e0792f-6fe9-4bbd-8bab-75faec90326f.png)
 
-![skigame_freakingout1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/da4697e1-9a8c-4efe-b2b9-689c77fb5c9d/skigame_freakingout1.png)
-
-![skigame_freakingout2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c42f027-1ba9-42a4-bf7b-eb1bbbdd6f81/skigame_freakingout2.png)
-
-![skigame_freakingout3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4bdf39ee-e6a7-49aa-9e3e-164ca20409d8/skigame_freakingout3.png)
-
-![skigame_anxious1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b73697e2-07f7-4e1a-b1f7-8e3acabde838/skigame_anxious1.png)
-
-![skigame_anxious2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4b607a80-3b08-499d-ad7e-4ed2093b7e16/skigame_anxious2.png)
-
-![skigame_anxious3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5cd964e8-f73f-45c3-9eb3-d4f85feae746/skigame_anxious3.png)
-
-![skigame_anxious4.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d7243a27-103d-455e-a104-764976dffa6e/skigame_anxious4.png)
-
-![Artboard 5_7.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e57be49d-abab-4929-8359-dea2f46a6886/Artboard_5_7.png)
-
-![skigame_neutral2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f7d312e-b92b-4a23-9988-d8f787a93643/skigame_neutral2.png)
-
-![skigame_neutral3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a56297d7-6de4-450f-bb9f-230b069d85fc/skigame_neutral3.png)
-
-![skigame_sleepy1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2c7b306b-f706-466d-9501-783862bcca8a/skigame_sleepy1.png)
-
-![skigame_sleepy2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/8cd2455f-4825-4016-828a-08a8defd258f/skigame_sleepy2.png)
-
-![skigame_sleepy3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d8c76336-874d-423d-9a43-ba01a50b8fe7/skigame_sleepy3.png)
-
-![skigame_asleep1.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9ab8a35c-c686-4721-9c6d-ee2b4b6b6c11/skigame_asleep1.png)
-
-![skigame_asleep2.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/aff4c009-86f0-4f9e-a823-3de2ff774c5b/skigame_asleep2.png)
-
-![skigame_asleep3.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e0259bf1-ea2f-471a-bdd7-fa71709858b9/skigame_asleep3.png)
 
 ### FINALIZED ANIMATIONS
+![image](https://user-images.githubusercontent.com/71244080/153318588-a5cf8b82-0c6a-4a04-92b1-c1d5e689b280.png)
 
-![skigameanimationsFINAL.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cd65e20d-e7f4-446b-8da3-c8819c0fbb3f/skigameanimationsFINAL.gif)
 
 ### BACKGROUND ANIMATION
-
-![snow.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d40418c-0487-4e5b-8886-8186d0656cf1/snow.gif)
+![image](https://user-images.githubusercontent.com/71244080/153318600-81faeeb9-6320-49ab-b8c5-b00b67b8805d.png)
 
 # SOUND
 
@@ -242,17 +220,15 @@ I chose to use World Famous Electronics’ Pulse Sensor as its a cheap option an
 
 ### LAYOUT AND SCHEMATIC
 
-![Board images from ELEGOO[^30]
-Pulse Sensor image from World Famous Electronics[^31]](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1238be89-95c3-4aa7-8828-6b78dea20148/elegooooo.png)
+![image](https://user-images.githubusercontent.com/71244080/153318644-d838318a-33cf-4f02-afed-9dc316fe6453.png)
 
 Board images from ELEGOO[^30]
 Pulse Sensor image from World Famous Electronics[^31]
 
 ### PHYSICAL BUILD
+![image](https://user-images.githubusercontent.com/71244080/153318669-1195e0f6-b4f6-41e1-a919-e96eddbc199c.png)
+![image](https://user-images.githubusercontent.com/71244080/153318677-fc6a29ec-5c5e-409e-9330-b3eb2861afad.png)
 
-![Screen Shot 2022-01-31 at 6.47.42 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86410dd3-02bd-434d-b139-046b1f4a0121/Screen_Shot_2022-01-31_at_6.47.42_PM.png)
-
-![Screen Shot 2022-01-31 at 6.47.35 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed7a691d-8483-4bfb-b127-f95002a86c18/Screen_Shot_2022-01-31_at_6.47.35_PM.png)
 
 ## CODING
 
