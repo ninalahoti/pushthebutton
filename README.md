@@ -3,6 +3,8 @@ A game exploring intentional linguistic ambiguity
 
 Made as part of the course Currents: Playful Prototyping taught by Jason Li in the Art, Media & Technology department at Parsons School of Design
 
+The game can be played <a href="https://ninalahoti.com/pushthebutton/">here</a>.
+
 ## **CONTEXT**
 
 ### THEME
