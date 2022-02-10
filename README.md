@@ -1,9 +1,11 @@
 # PUSH THE BUTTON
-A game exploring intentional linguistic ambiguity
+A game exploring intentional linguistic ambiguity 
 
 Made as part of the course Currents: Playful Prototyping taught by Jason Li in the Art, Media & Technology department at Parsons School of Design
 
-The game can be played <a href="https://ninalahoti.com/pushthebutton/">here</a>.
+The game can be played <a href="https://ninalahoti.com/pushthebutton/">here</a>. 
+
+<img src="https://user-images.githubusercontent.com/71244080/153329220-fd69c734-75f7-408a-8333-4a8c9c877b8d.gif" alt="gif" height="100"/>
 
 ## **CONTEXT**
 
