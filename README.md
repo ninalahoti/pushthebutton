@@ -381,39 +381,39 @@ As noted earlier, the pulse sensor didn’t work very well, and it made the debu
 
 # FOOTNOTES
 
-[^1] Watts.
-[^2] Johnson.
-[^3] Abe.
-[^4] “PlayPulse.”
-[^5] Kawakami.
-[^6] Stanchina.
-[^7] Nilsson.
-[^8] d'Andrea.
-[^9] Hadhazy.
-[^10] Davies.
-[^11] Kawakami.
-[^12] Stanchina.
-[^13] Nilsson.
-[^14] Hadhazy.
-[^15] Kawakami.
-[^16] d'Andrea.
-[^17] Ibid.
-[^18] Hadhazy.
-[^19] Davies.
-[^20] “Freesound.”
-[^21] Raygunvirus.
-[^22] InspectorJ.
-[^23] BurghRecords.
-[^24] Mafon2.
-[^25] Robinhood76.
-[^26] 1489232.
-[^27] Bayaba22c.
-[^28] Owly-bee.
-[^29] Cdrk.
-[^30] “ELEGOO UNO R3 Controller Board.”
-[^31] Gitman.
-[^32] “PulseSensor Playground.”
-[^33] Van Every.
+[^1]: Watts.
+[^2]: Johnson.
+[^3]: Abe.
+[^4]: “PlayPulse.”
+[^5]: Kawakami.
+[^6]: Stanchina.
+[^7]: Nilsson.
+[^8]: d'Andrea.
+[^9]: Hadhazy.
+[^10]: Davies.
+[^11]: Kawakami.
+[^12]: Stanchina.
+[^13]: Nilsson.
+[^14]: Hadhazy.
+[^15]: Kawakami.
+[^16]: d'Andrea.
+[^17]: Ibid.
+[^18]: Hadhazy.
+[^19]: Davies.
+[^20]: “Freesound.”
+[^21]: Raygunvirus.
+[^22]: InspectorJ.
+[^23]: BurghRecords.
+[^24]: Mafon2.
+[^25]: Robinhood76.
+[^26]: 1489232.
+[^27]: Bayaba22c.
+[^28]: Owly-bee.
+[^29]: Cdrk.
+[^30]: “ELEGOO UNO R3 Controller Board.”
+[^31]: Gitman.
+[^32]: “PulseSensor Playground.”
+[^33]: Van Every.
 
 # Sources
 
