@@ -819,6 +819,26 @@ function endscreen() {
   pop();
   if (millis() > endtime + 500) {
     if (keyIsDown(32)) {
+      level1bool = false;
+      rightleftvar = "right";
+      hoveropacity = 0;
+      pressedopacity = 0;
+      handx = null;
+      handy = null;
+      handrotation = 0;
+      level1opac = 0;
+      level2bool = false;
+      xrange = 110;
+      yrange = 110;
+      level3bool = false;
+      pushedbool = false;
+      level4bool = false;
+      textmillis = null;
+      textlineopac = 0;
+      myarrayx = 658;
+      myarrayy = 125;
+      mystringx = 658;
+      mystringy = 175;
       counter = 0;
     }
   }
