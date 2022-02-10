@@ -1,4 +1,6 @@
-# ** PUSH THE BUTTON **
+# PUSH THE BUTTON
+A game exploring intentional linguistic ambiguity
+Made as part of the course Currents: Playful Prototyping taught by Jason Li in the Art, Media & Technology department at Parsons School of Design
 
 
 ## **CONTEXT**
@@ -148,43 +150,43 @@ asleep
 
 **THE EFFECT OF SOUNDS ON NEWBORN INFANTS UNDER STRESS (1996)**
 
-In this journal article, authors Kiyobumi Kawakami, Kiyoko Takai-Kawakami, Hiroyuki Kurihara, Yukiko Shimizu, and Takumi Yanaihara analyzed how infant stress responses during minimally invasive procedures varied when exposed to white noise or heartbeat sounds, both presented at 85dB. The results showed that “presenting [these] sounds to newborn infants in this stressful situation had a calming effect.”$^\mathtt{1}$
+In this journal article, authors Kiyobumi Kawakami, Kiyoko Takai-Kawakami, Hiroyuki Kurihara, Yukiko Shimizu, and Takumi Yanaihara analyzed how infant stress responses during minimally invasive procedures varied when exposed to white noise or heartbeat sounds, both presented at 85dB. The results showed that “presenting [these] sounds to newborn infants in this stressful situation had a calming effect.”$^\mathtt{5}$
 
 ![blakn.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a56fda58-f183-4ac6-bfa5-fc450fc67a01/blakn.png)
 
 **THE INFLUENCE OF WHITE NOISE ON SLEEP IN SUBJECTS EXPOSED TO ICU NOISE (2005)**
 
-In this study, authors Michael L. Stanchina, Muhanned Abu-Hijleh, Bilal K. Chaudhry, Carol C. Carlisle, and Richard P. Millman “hypothesized that white noise... reduce[s] arousals by reducing the magnitude of changing noise levels.” Their results supports this hypothesis.$^\mathtt{2}$
+In this study, authors Michael L. Stanchina, Muhanned Abu-Hijleh, Bilal K. Chaudhry, Carol C. Carlisle, and Richard P. Millman “hypothesized that white noise... reduce[s] arousals by reducing the magnitude of changing noise levels.” Their results supports this hypothesis.$^\mathtt{6}$
 
 ![blakn.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a56fda58-f183-4ac6-bfa5-fc450fc67a01/blakn.png)
 
 **STRESS REDUCTION AND ANALGESIA IN PATIENTS EXPOSED TO CALMING MUSIC POSTOPERATIVELY: A RANDOMIZED CONTROLLED TRIAL (2005)**
 
-Authors U. Nilsson , M. Unosson and N. Rawal postulate that ”listening to natural sounds[, such as] sounds of a ripple, a small stream, a soft wind or a twitter” is correlated with “reduction in BP and HR during emergence from anaesthesia” in this journal article.$^\mathtt{3}$
+Authors U. Nilsson , M. Unosson and N. Rawal postulate that ”listening to natural sounds[, such as] sounds of a ripple, a small stream, a soft wind or a twitter” is correlated with “reduction in BP and HR during emergence from anaesthesia” in this journal article.$^\mathtt{7}$
 
 ![blakn.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a56fda58-f183-4ac6-bfa5-fc450fc67a01/blakn.png)
 
 **HETEROGENEITY OF DEFENSIVE RESPONSES AFTER EXPOSURE TO TRAUMA: BLUNTED AUTONOMIC REACTIVITY IN RESPONSE TO STARTLING SOUNDS (2013)**
 
-In this study, authors Wendy D'Andrea, Nnamdi Pole, Jonathan DePierro, Steven Freed, and D. Brian Wallace used acoustic startle to analyze response times; they used the “San Diego Instruments Startle Reflex System (SR-Lab)... to administer... the acoustic stimuli [which consisted of 105 dB] blasts of white noise that lasted 40 ms each.”$^\mathtt{4}$
+In this study, authors Wendy D'Andrea, Nnamdi Pole, Jonathan DePierro, Steven Freed, and D. Brian Wallace used acoustic startle to analyze response times; they used the “San Diego Instruments Startle Reflex System (SR-Lab)... to administer... the acoustic stimuli [which consisted of 105 dB] blasts of white noise that lasted 40 ms each.”$^\mathtt{8}$
 
 ![blakn.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a56fda58-f183-4ac6-bfa5-fc450fc67a01/blakn.png)
 
 **WHY DOES THE SOUND OF WATER HELP YOU SLEEP? (2016)**
 
-In this article, Orfeu Buxton, “an associate professor of biobehavioral health at Pennsylvania State University,” discusses sounds proven to be calming or alarming. Buxton asserts that, based on analysis of a sleep disruption study’s results, nature sounds, like “the crash of ocean waves, the babbling of brooks[, and].... the wind in the trees,” are calming while “no-noise-to-peak-noise” sounds, like “alarms, ringing phones, and... human conversations,” are jarring.$^\mathtt{5}$
+In this article, Orfeu Buxton, “an associate professor of biobehavioral health at Pennsylvania State University,” discusses sounds proven to be calming or alarming. Buxton asserts that, based on analysis of a sleep disruption study’s results, nature sounds, like “the crash of ocean waves, the babbling of brooks[, and].... the wind in the trees,” are calming while “no-noise-to-peak-noise” sounds, like “alarms, ringing phones, and... human conversations,” are jarring.$^\mathtt{9}$
 
 ![blakn.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a56fda58-f183-4ac6-bfa5-fc450fc67a01/blakn.png)
 
 **STRESSFUL CITY SOUNDS: GLUCOCORTICOID RESPONSES TO EXPERIMENTAL TRAFFIC NOISE ARE ENVIRONMENTALLY DEPENDENT (2017)**
 
-In this study, authors Scott Davies, Nicole Haddad and Jenny Q. Ouyang “exposed adult house wrens, *Troglodytes aedon*, to either traffic noise or pink noise” and “found that urban wrens had higher initial (pre-restraint) corticosterone than rural wrens before treatment, and that traffic noise elevated initial corticosterone of rural, but not urban, wrens.”$^\mathtt{6}$
+In this study, authors Scott Davies, Nicole Haddad and Jenny Q. Ouyang “exposed adult house wrens, *Troglodytes aedon*, to either traffic noise or pink noise” and “found that urban wrens had higher initial (pre-restraint) corticosterone than rural wrens before treatment, and that traffic noise elevated initial corticosterone of rural, but not urban, wrens.”$^\mathtt{10}$
 
 ![blakn.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a56fda58-f183-4ac6-bfa5-fc450fc67a01/blakn.png)
 
 ### CONCLUSIONS
 
-Numerous studies supported the calming effect of white noise$^\mathtt{7}$$^\mathtt{8}$ and nature noises.$^\mathtt{9}$$^\mathtt{10}$ One study suggested that heartbeat sounds have the same effect.$^\mathtt{11}$ Numerous studies with cited acoustic stress protocols$^\mathtt{12}$ reported that short blasts of white noise,$^\mathtt{13}$ phone alarms, and human voices$^\mathtt{14}$ are particularly jarring. While continuous loud background noise, such as traffic noise in urban areas, is associated with long term-stress, one study argued that shorter exposure periods did not have a notable effect on urban residents.$^\mathtt{15}$
+Numerous studies supported the calming effect of white noise$^\mathtt{11}$$^\mathtt{12}$ and nature noises.$^\mathtt{13}$$^\mathtt{14}$ One study suggested that heartbeat sounds have the same effect.$^\mathtt{15}$ Numerous studies with cited acoustic stress protocols$^\mathtt{16}$ reported that short blasts of white noise,$^\mathtt{17}$ phone alarms, and human voices$^\mathtt{18}$ are particularly jarring. While continuous loud background noise, such as traffic noise in urban areas, is associated with long term-stress, one study argued that shorter exposure periods did not have a notable effect on urban residents.$^\mathtt{19}$
 
 From these conclusions, I decided to use white noise, ocean noises, and bird sounds as my calming sounds and alarms, short blasts of blaring white noise, and human voices as my alarming sounds.
 
@@ -192,41 +194,41 @@ From these conclusions, I decided to use white noise, ocean noises, and bird sou
 
 ### SAMPLES
 
-To find samples, I used the website Freesound, “a collaborative database of Creative Commons Licensed sounds.” $^\mathtt{16}$ I chose longer samples of calming sound because they take more time to be effective. I ended up picking out the following samples:
+To find samples, I used the website Freesound, “a collaborative database of Creative Commons Licensed sounds.” $^\mathtt{20}$ I chose longer samples of calming sound because they take more time to be effective. I ended up picking out the following samples:
 
-Alarm at Airport$^\mathtt{17}$
+Alarm at Airport$^\mathtt{21}$
 
 [Airport Alarm.wav](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/58428f25-51e6-421a-b3d8-a3890845a511/Airport_Alarm.wav)
 
-Ambience, Seaside Waves, Close, A$^\mathtt{18}$
+Ambience, Seaside Waves, Close, A$^\mathtt{22}$
 
 [Waves and White Noise.wav](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/249b733d-2604-4f0d-9757-a165dd10cf20/Waves_and_White_Noise.wav)
 
-Birds in Spring (Scotland)$^\mathtt{19}$
+Birds in Spring (Scotland)$^\mathtt{23}$
 
 [Bird Noises.wav](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/608881d6-de78-4067-9fc3-3a9ba3556c4b/Bird_Noises.wav)
 
-Comical Screams$^\mathtt{20}$
+Comical Screams$^\mathtt{24}$
 
 [Comical Screams.wav](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4301a742-def5-4a50-a544-0623531148ec/Comical_Screams.wav)
 
-Few Male Hey Shout$^\mathtt{21}$
+Few Male Hey Shout$^\mathtt{25}$
 
 [Hey Shout.wav](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d605245a-1ff7-4021-a410-847449da8a6e/Hey_Shout.wav)
 
-Hello$^\mathtt{22}$
+Hello$^\mathtt{26}$
 
 [Hello.mp3](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5ea83912-39cc-4dd4-b75d-7da74170b180/Hello.mp3)
 
-iPhone Alarm$^\mathtt{23}$
+iPhone Alarm$^\mathtt{27}$
 
 [iPhone Alarm.wav](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28bc9c75-169c-40ab-8b4e-c4740740f570/iPhone_Alarm.wav)
 
-Screaming2$^\mathtt{24}$
+Screaming2$^\mathtt{28}$
 
 [High Pitched Scream.wav](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/daa54a0e-6041-4f65-9176-73c13ff71257/High_Pitched_Scream.wav)
 
-White Noise Looped$^\mathtt{25}$
+White Noise Looped$^\mathtt{29}$
 
 [Loud White Noise.mp3](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/45f4ffcb-66c9-4ded-993e-c7dbba8c9b8d/Loud_White_Noise.mp3)
 
@@ -252,11 +254,11 @@ I chose to use World Famous Electronics’ Pulse Sensor as its a cheap option an
 
 ### LAYOUT AND SCHEMATIC
 
-![Board images from ELEGOO$^\mathtt{26}$
-Pulse Sensor image from World Famous Electronics$^\mathtt{27}$](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1238be89-95c3-4aa7-8828-6b78dea20148/elegooooo.png)
+![Board images from ELEGOO$^\mathtt{30}$
+Pulse Sensor image from World Famous Electronics$^\mathtt{31}$](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1238be89-95c3-4aa7-8828-6b78dea20148/elegooooo.png)
 
-Board images from ELEGOO$^\mathtt{26}$
-Pulse Sensor image from World Famous Electronics$^\mathtt{27}$
+Board images from ELEGOO$^\mathtt{30}$
+Pulse Sensor image from World Famous Electronics$^\mathtt{31}$
 
 ### PHYSICAL BUILD
 
@@ -268,7 +270,7 @@ Pulse Sensor image from World Famous Electronics$^\mathtt{27}$
 
 ### REFERENCE
 
-To use the Pulse Sensor, I downloaded the PulseSensor Playground library.$^\mathtt{28}$ To connect the UNO and the p5.js editor, I followed the instructions on the READEME.md file in the p5.serialport Github repository.$^\mathtt{29}$
+To use the Pulse Sensor, I downloaded the PulseSensor Playground library.$^\mathtt{32}$ To connect the UNO and the p5.js editor, I followed the instructions on the READEME.md file in the p5.serialport Github repository.$^\mathtt{33}$
 
 ### PLANNING ARDUINO CODE
 
@@ -367,6 +369,8 @@ To use the Pulse Sensor, I downloaded the PulseSensor Playground library.$^\math
     4. “PRESS AND HOLD BUTTON TO PLAY AGAIN”
     5. **mybutton()**
 
+# DEBRIEF
+
 ## TAKEAWAYS
 
 ### LESSONS LEARNED
@@ -386,3 +390,91 @@ I really liked how my game turned out overall! I think the animations are cute, 
 ### WHAT I DISLIKED
 
 As noted earlier, the pulse sensor didn’t work very well, and it made the debugging process really difficult and frustrating.
+
+# FOOTNOTES
+
+1. Watts.
+2. Johnson.
+3. Abe.
+4. “PlayPulse.”
+5. Kawakami.
+6. Stanchina.
+7. Nilsson.
+8. d'Andrea.
+9. Hadhazy.
+10. Davies.
+11. Kawakami.
+12. Stanchina.
+13. Nilsson.
+14. Hadhazy.
+15. Kawakami.
+16. d'Andrea.
+17. Ibid.
+18. Hadhazy.
+19. Davies.
+20. “Freesound.”
+21. Raygunvirus.
+22. InspectorJ.
+23. BurghRecords.
+24. Mafon2.
+25. Robinhood76.
+26. 1489232.
+27. Bayaba22c.
+28. Owly-bee.
+29. Cdrk.
+30. “ELEGOO UNO R3 Controller Board.”
+31. Gitman.
+32. “PulseSensor Playground.”
+33. Van Every.
+
+# Sources
+
+1489232. “hello.”  *Freesound, Freesound,* https://freesound.org/people/1489232/sounds/449500/.
+
+Abe, Erika, et al. "Heart rate monitoring by a pulse sensor embedded game controller." *2015 Asia-Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA)*. IEEE, 2015.
+
+BurghRecords. “Birds In Spring (Scotland).”  *Freesound, Freesound,* https://freesound.org/people/BurghRecords/sounds/463903/.
+
+Bayaba22c. “iphone_alarm.wav.”  *Freesound, Freesound,* https://freesound.org/people/bayaba22c/sounds/575814/.”
+
+Cdrk. “wn_looped.flac.”   *Freesound, Freesound,* https://freesound.org/people/cdrk/sounds/20009/.
+
+Codeman38. “Press Start 2P.” *Google Fonts*, Google, https://fonts.google.com/specimen/Press+Start+2P.
+
+d'Andrea, Wendy, et al. "Heterogeneity of defensive responses after exposure to trauma: Blunted autonomic reactivity in response to startling sounds." *International journal of psychophysiology* 90.1 (2013): 80-89.
+
+Davies, Scott, Nicole Haddad, and Jenny Q. Ouyang. "Stressful city sounds: glucocorticoid responses to experimental traffic noise are environmentally dependent." *Biology letters* 13.10 (2017): 20170276.
+
+“ELEGOO UNO R3 Controller Board.” *ELEGOO*. https://www.elegoo.com/products/elegoo-uno-project-super-starter-kit. 
+
+“Freesound.” *Freesound*. freesound.org.
+
+Gitman, Yury and Joel Murphy. “PulseSensor.” *World Famous Electronics llc*. September 2011. pulsesensor.com. 
+
+Hadhazy, Adam. “Why Does the Sound of Water Help You Sleep?” *LiveScience*, Purch, 18 Jan. 2016, https://www.livescience.com/53403-why-sound-of-water-helps-you-sleep.html.
+
+InspectorJ. “Ambience, Seaside Waves, Close, A.wav.”  *Freesound, Freesound,* https://freesound.org/people/InspectorJ/sounds/400632/.
+
+Johnson, Eric. “Stanford Has a Videogame Controller That Knows If You're Bored.” *Vox*, Vox Media, 28 Apr. 2014, https://www.vox.com/2014/4/28/11626130/stanford-has-a-videogame-controller-that-knows-if-youre-bored.
+
+Kawakami, Kiyobumi, et al. "The effect of sounds on newborn infants under stress." *Infant Behavior and Development* 19.3 (1996): 375-379.
+
+Mafon2. “Comical Screams." *Freesound, Freesound,* https://freesound.org/people/Mafon2/sounds/343490/.
+
+Nilsson, Ulrica, Mitra Unosson, and Narinder Rawal. "Stress reduction and analgesia in patients exposed to calming music postoperatively: a randomized controlled trial." *European journal of anaesthesiology* 22.2 (2005): 96-102.
+
+Owly-bee. “Screaming2.wav.” *Freesound, Freesound,* https://freesound.org/people/owly-bee/sounds/415353/.
+
+“PlayPulse.” *Playpulse*, Playpulse AS, https://playpulse.com/.
+
+“PulseSensor Playground.” *Arduino Reference*, Arduino, https://www.arduino.cc/reference/en/libraries/pulsesensor-playground/.
+
+Raygunvirus, “alarm at airport.wav." *Freesound, Freesound,* https://freesound.org/people/raygunvirus/sounds/218795/.
+
+Robinhood76. “07706 few male hey shout.wav.” *Freesound, Freesound,* https://freesound.org/people/Robinhood76/sounds/467869/.
+
+Stanchina, Michael L., et al. "The influence of white noise on sleep in subjects exposed to ICU noise." *Sleep medicine* 6.5 (2005): 423-428.
+
+Van Every, Shawn, et al. “README.md.” *p5.Serialport*, GitHub, 10 Oct. 2019, https://github.com/p5-serial/p5.serialport.
+
+Watts, Martin. “N64 Tetris Games.” *N64 Today*, 14 Sept. 2019, https://n64today.com/2019/09/14/n64-tetris-games/.
